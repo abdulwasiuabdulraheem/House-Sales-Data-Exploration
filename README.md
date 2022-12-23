@@ -12,7 +12,7 @@ This dataset consists of information regarding 21613 house sale prices for King 
 
 In this exploration, the square footage of the house is found to have the strongest relationship with the house price.
 
-The relationship between these variables is positive, and I was able to see it more clearly after a log transformation was performed on both variables, and transparency and jitter were employed on the plot to make their scatterplot more informative.
+The relationship between these variables is positive, and we see it more clearly after a log transformation was performed on both variables and transparency and jitter were applied to the plot to make their scatterplot more informative.
 
 A better house condition is also found to have a positive effect on price when waterfront, grade, and condition are plotted against price. Grade has a stronger relationship with price than the other two categorical features.
 
