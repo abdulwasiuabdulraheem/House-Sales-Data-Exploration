@@ -22,4 +22,4 @@ The investigation of price against square footage is extended to include conditi
 ## Key Insights for Presentation
 
 For the presentation, I focus on just the influence of square footage on house sale prices. I start by introducing the
-price variable, followed by the pattern in square footage distribution, and then plot the transformed scatterplot.
+price variable, followed by the pattern in square footage distribution, and then plot the transformed scatterplot
